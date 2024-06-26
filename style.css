@@ -1,0 +1,52 @@
+
+.head {
+    margin-top: 30px;
+}
+
+.order {
+    /* border: 2px black solid; */
+    display: block;
+    float: left;
+    font-size: 42px;
+    font-weight: bold;
+    
+  /* ширина блока по наполнению */
+}
+
+.sum {
+    /* border: 2px black solid; */
+    display: block;
+    float: left;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 42px;
+}
+
+.sity {
+    display: block;
+    float: left;
+    font-size: 42px;
+}
+
+.info-orde {
+    margin: 10px;
+    display: flex;
+    align-items: flex-end;
+  
+}
+
+.duplicate {
+    margin-right: 6px;
+}
+
+.completed {
+    text-decoration: underline; 
+   
+}
+
+.right-info {
+    margin: 15px;
+    
+    /* position: absolute; */
+    float: right;
+}
